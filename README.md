@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5451FF&size=72&height=200&lines=Blu3beri" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=5451FF&size=72&height=120&lines=Blu3beri" />
 </p>
 
 ---
