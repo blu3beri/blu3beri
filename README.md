@@ -3,6 +3,13 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5451FF&size=72&height=200&lines=Blu3beri" />
+</p>
+
+---
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#386](https://github.com/hyperledger/aries-framework-javascript/pull/386) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 2. 🎉 Merged PR [#1](https://github.com/blu3beri/aries-agent-test-harness/pull/1) in [blu3beri/aries-agent-test-harness](https://github.com/blu3beri/aries-agent-test-harness)
@@ -10,4 +17,5 @@
 4. 🗣 Commented on [#336](https://github.com/hyperledger/aries-framework-javascript/issues/336) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 5. 🗣 Commented on [#359](https://github.com/hyperledger/aries-framework-javascript/issues/359) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
+
 ---
