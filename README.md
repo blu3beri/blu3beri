@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1384](https://github.com/hyperledger/aries-cloudagent-python/issues/1384) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#8](https://github.com/ReFil/zmk-config/issues/8) in [ReFil/zmk-config](https://github.com/ReFil/zmk-config)
 2. 🗣 Commented on [#1384](https://github.com/hyperledger/aries-cloudagent-python/issues/1384) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#456](https://github.com/hyperledger/aries-framework-javascript/issues/456) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#400](https://github.com/hyperledger/aries-framework-javascript/issues/400) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#456](https://github.com/hyperledger/aries-framework-javascript/issues/456) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1384](https://github.com/hyperledger/aries-cloudagent-python/issues/1384) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🗣 Commented on [#456](https://github.com/hyperledger/aries-framework-javascript/issues/456) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#400](https://github.com/hyperledger/aries-framework-javascript/issues/400) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
