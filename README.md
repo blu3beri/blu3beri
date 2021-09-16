@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/hyperledger/aries-framework-javascript-ext/issues/25) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🎉 Merged PR [#22](https://github.com/hyperledger/aries-framework-javascript-ext/pull/22) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🗣 Commented on [#452](https://github.com/hyperledger/aries-framework-javascript/issues/452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#18](https://github.com/hyperledger/aries-framework-javascript-ext/pull/18) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🎉 Merged PR [#18](https://github.com/animo/awesome-self-sovereign-identity/pull/18) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+1. 💪 Opened PR [#457](https://github.com/hyperledger/aries-framework-javascript/pull/457) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#25](https://github.com/hyperledger/aries-framework-javascript-ext/issues/25) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🎉 Merged PR [#22](https://github.com/hyperledger/aries-framework-javascript-ext/pull/22) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🗣 Commented on [#452](https://github.com/hyperledger/aries-framework-javascript/issues/452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#18](https://github.com/hyperledger/aries-framework-javascript-ext/pull/18) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
