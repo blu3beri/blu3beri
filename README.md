@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#461](https://github.com/hyperledger/aries-framework-javascript/issues/461) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#464](https://github.com/hyperledger/aries-framework-javascript/issues/464) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 2. 🗣 Commented on [#461](https://github.com/hyperledger/aries-framework-javascript/issues/461) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Closed issue [#1384](https://github.com/hyperledger/aries-cloudagent-python/issues/1384) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🎉 Merged PR [#453](https://github.com/hyperledger/aries-framework-javascript/pull/453) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#29](https://github.com/hyperledger/aries-framework-javascript-ext/pull/29) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🗣 Commented on [#461](https://github.com/hyperledger/aries-framework-javascript/issues/461) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Closed issue [#1384](https://github.com/hyperledger/aries-cloudagent-python/issues/1384) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🎉 Merged PR [#453](https://github.com/hyperledger/aries-framework-javascript/pull/453) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
