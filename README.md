@@ -5,10 +5,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#104](https://github.com/maaslalani/slides/issues/104) in [maaslalani/slides](https://github.com/maaslalani/slides)
-2. 🗣 Commented on [#461](https://github.com/hyperledger/aries-framework-javascript/issues/461) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#464](https://github.com/hyperledger/aries-framework-javascript/issues/464) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#461](https://github.com/hyperledger/aries-framework-javascript/issues/461) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#104](https://github.com/maaslalani/slides/issues/104) in [maaslalani/slides](https://github.com/maaslalani/slides)
+2. ❗️ Opened issue [#104](https://github.com/maaslalani/slides/issues/104) in [maaslalani/slides](https://github.com/maaslalani/slides)
+3. 🗣 Commented on [#461](https://github.com/hyperledger/aries-framework-javascript/issues/461) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#464](https://github.com/hyperledger/aries-framework-javascript/issues/464) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 5. 🗣 Commented on [#461](https://github.com/hyperledger/aries-framework-javascript/issues/461) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
