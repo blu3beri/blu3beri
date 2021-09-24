@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#466](https://github.com/hyperledger/aries-framework-javascript/pull/466) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#104](https://github.com/maaslalani/slides/issues/104) in [maaslalani/slides](https://github.com/maaslalani/slides)
+1. ❗️ Opened issue [#473](https://github.com/hyperledger/aries-framework-javascript/issues/473) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#466](https://github.com/hyperledger/aries-framework-javascript/pull/466) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 3. 🗣 Commented on [#104](https://github.com/maaslalani/slides/issues/104) in [maaslalani/slides](https://github.com/maaslalani/slides)
 4. 🗣 Commented on [#104](https://github.com/maaslalani/slides/issues/104) in [maaslalani/slides](https://github.com/maaslalani/slides)
-5. ❗️ Opened issue [#104](https://github.com/maaslalani/slides/issues/104) in [maaslalani/slides](https://github.com/maaslalani/slides)
+5. 🗣 Commented on [#104](https://github.com/maaslalani/slides/issues/104) in [maaslalani/slides](https://github.com/maaslalani/slides)
 <!--END_SECTION:activity-->
 
 ---
