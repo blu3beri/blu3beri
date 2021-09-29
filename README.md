@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#473](https://github.com/hyperledger/aries-framework-javascript/issues/473) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#473](https://github.com/hyperledger/aries-framework-javascript/issues/473) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❌ Closed PR [#7](https://github.com/animo/aries-agent-demo-nodejs/pull/7) in [animo/aries-agent-demo-nodejs](https://github.com/animo/aries-agent-demo-nodejs)
-4. ❌ Closed PR [#8](https://github.com/animo/aries-agent-demo-nodejs/pull/8) in [animo/aries-agent-demo-nodejs](https://github.com/animo/aries-agent-demo-nodejs)
-5. 🗣 Commented on [#473](https://github.com/hyperledger/aries-framework-javascript/issues/473) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#2428](https://github.com/hyperledger/indy-sdk/pull/2428) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
+2. ❗️ Closed issue [#473](https://github.com/hyperledger/aries-framework-javascript/issues/473) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#473](https://github.com/hyperledger/aries-framework-javascript/issues/473) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❌ Closed PR [#7](https://github.com/animo/aries-agent-demo-nodejs/pull/7) in [animo/aries-agent-demo-nodejs](https://github.com/animo/aries-agent-demo-nodejs)
+5. ❌ Closed PR [#8](https://github.com/animo/aries-agent-demo-nodejs/pull/8) in [animo/aries-agent-demo-nodejs](https://github.com/animo/aries-agent-demo-nodejs)
 <!--END_SECTION:activity-->
 
 ---
