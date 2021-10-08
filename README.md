@@ -5,10 +5,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#478](https://github.com/hyperledger/aries-framework-javascript/pull/478) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#464](https://github.com/hyperledger/aries-framework-javascript/issues/464) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#2](https://github.com/rbenv/homebrew-tap/issues/2) in [rbenv/homebrew-tap](https://github.com/rbenv/homebrew-tap)
-4. 🗣 Commented on [#2](https://github.com/rbenv/homebrew-tap/issues/2) in [rbenv/homebrew-tap](https://github.com/rbenv/homebrew-tap)
+1. 💪 Opened PR [#699](https://github.com/hyperledger/aries-rfcs/pull/699) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 💪 Opened PR [#41](https://github.com/hyperledger/aries-framework-javascript-ext/pull/41) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🎉 Merged PR [#478](https://github.com/hyperledger/aries-framework-javascript/pull/478) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#464](https://github.com/hyperledger/aries-framework-javascript/issues/464) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 5. 🗣 Commented on [#2](https://github.com/rbenv/homebrew-tap/issues/2) in [rbenv/homebrew-tap](https://github.com/rbenv/homebrew-tap)
 <!--END_SECTION:activity-->
 
