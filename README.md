@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#488](https://github.com/hyperledger/aries-framework-javascript/issues/488) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#499](https://github.com/hyperledger/aries-framework-javascript/issues/499) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#491](https://github.com/hyperledger/aries-framework-javascript/pull/491) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#490](https://github.com/hyperledger/aries-framework-javascript/issues/490) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#41](https://github.com/hyperledger/aries-framework-javascript-ext/issues/41) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. ❗️ Opened issue [#53](https://github.com/hyperledger/aries-framework-javascript-ext/issues/53) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🎉 Merged PR [#41](https://github.com/hyperledger/aries-framework-javascript-ext/pull/41) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🗣 Commented on [#488](https://github.com/hyperledger/aries-framework-javascript/issues/488) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#499](https://github.com/hyperledger/aries-framework-javascript/issues/499) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#491](https://github.com/hyperledger/aries-framework-javascript/pull/491) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
