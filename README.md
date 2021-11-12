@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#532](https://github.com/hyperledger/aries-framework-javascript/issues/532) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#452](https://github.com/hyperledger/aries-framework-javascript/issues/452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❌ Closed PR [#452](https://github.com/hyperledger/aries-framework-javascript/pull/452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#505](https://github.com/hyperledger/aries-framework-javascript/issues/505) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#54](https://github.com/dignifiedquire/borc/issues/54) in [dignifiedquire/borc](https://github.com/dignifiedquire/borc)
+1. 🗣 Commented on [#505](https://github.com/hyperledger/aries-framework-javascript/issues/505) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#532](https://github.com/hyperledger/aries-framework-javascript/issues/532) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#452](https://github.com/hyperledger/aries-framework-javascript/issues/452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❌ Closed PR [#452](https://github.com/hyperledger/aries-framework-javascript/pull/452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#505](https://github.com/hyperledger/aries-framework-javascript/issues/505) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
