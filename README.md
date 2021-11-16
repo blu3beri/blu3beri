@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#539](https://github.com/hyperledger/aries-framework-javascript/issues/539) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#535](https://github.com/hyperledger/aries-framework-javascript/pull/535) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#535](https://github.com/hyperledger/aries-framework-javascript/issues/535) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#536](https://github.com/hyperledger/aries-framework-javascript/pull/536) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#536](https://github.com/hyperledger/aries-framework-javascript/pull/536) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#382](https://github.com/hyperledger/aries-framework-javascript/issues/382) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#309](https://github.com/hyperledger/aries-framework-javascript/issues/309) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#539](https://github.com/hyperledger/aries-framework-javascript/issues/539) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#535](https://github.com/hyperledger/aries-framework-javascript/pull/535) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#535](https://github.com/hyperledger/aries-framework-javascript/issues/535) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
