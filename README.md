@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/arnnis/react-native-toast-notifications/issues/109) in [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications)
-2. ❗️ Closed issue [#109](https://github.com/arnnis/react-native-toast-notifications/issues/109) in [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications)
-3. 🗣 Commented on [#567](https://github.com/hyperledger/aries-framework-javascript/issues/567) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#77](https://github.com/hyperledger/aries-framework-javascript-ext/pull/77) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🗣 Commented on [#563](https://github.com/hyperledger/aries-framework-javascript/issues/563) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Reopened issue [#109](https://github.com/arnnis/react-native-toast-notifications/issues/109) in [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications)
+2. 🗣 Commented on [#109](https://github.com/arnnis/react-native-toast-notifications/issues/109) in [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications)
+3. ❗️ Closed issue [#109](https://github.com/arnnis/react-native-toast-notifications/issues/109) in [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications)
+4. 🗣 Commented on [#567](https://github.com/hyperledger/aries-framework-javascript/issues/567) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#77](https://github.com/hyperledger/aries-framework-javascript-ext/pull/77) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
