@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/blu3beri/react-native-turbomodule-tscodegen/pull/5) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-2. ❗️ Opened issue [#2](https://github.com/barthap/discovering-turbomodules/issues/2) in [barthap/discovering-turbomodules](https://github.com/barthap/discovering-turbomodules)
-3. ❗️ Opened issue [#7](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/7) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-4. ❗️ Opened issue [#6](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/6) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-5. 🗣 Commented on [#5](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/5) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+1. 🗣 Commented on [#2](https://github.com/barthap/discovering-turbomodules/issues/2) in [barthap/discovering-turbomodules](https://github.com/barthap/discovering-turbomodules)
+2. 🎉 Merged PR [#5](https://github.com/blu3beri/react-native-turbomodule-tscodegen/pull/5) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+3. ❗️ Opened issue [#2](https://github.com/barthap/discovering-turbomodules/issues/2) in [barthap/discovering-turbomodules](https://github.com/barthap/discovering-turbomodules)
+4. ❗️ Opened issue [#7](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/7) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+5. ❗️ Opened issue [#6](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/6) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
 <!--END_SECTION:activity-->
 
 ---
