@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/hyperledger/indy-sdk-react-native/issues/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-2. 🗣 Commented on [#2459](https://github.com/hyperledger/indy-sdk/issues/2459) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
+1. 💪 Opened PR [#28](https://github.com/hyperledger/indy-sdk-react-native/pull/28) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 🗣 Commented on [#26](https://github.com/hyperledger/indy-sdk-react-native/issues/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 3. 🗣 Commented on [#2459](https://github.com/hyperledger/indy-sdk/issues/2459) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
-4. 💪 Opened PR [#26](https://github.com/hyperledger/indy-sdk-react-native/pull/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-5. 🗣 Commented on [#590](https://github.com/hyperledger/aries-framework-javascript/issues/590) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#2459](https://github.com/hyperledger/indy-sdk/issues/2459) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
+5. 💪 Opened PR [#26](https://github.com/hyperledger/indy-sdk-react-native/pull/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
