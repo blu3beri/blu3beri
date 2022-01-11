@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/pull/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-2. ❗️ Closed issue [#3](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/3) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-3. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-4. 🗣 Commented on [#2](https://github.com/barthap/discovering-turbomodules/issues/2) in [barthap/discovering-turbomodules](https://github.com/barthap/discovering-turbomodules)
-5. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+1. 🗣 Commented on [#59](https://github.com/hyperledger/indy-vdr/issues/59) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🎉 Merged PR [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/pull/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+3. ❗️ Closed issue [#3](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/3) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+4. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+5. 🗣 Commented on [#2](https://github.com/barthap/discovering-turbomodules/issues/2) in [barthap/discovering-turbomodules](https://github.com/barthap/discovering-turbomodules)
 <!--END_SECTION:activity-->
 
 ---
