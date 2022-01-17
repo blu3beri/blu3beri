@@ -5,11 +5,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/barthap/discovering-turbomodules/issues/2) in [barthap/discovering-turbomodules](https://github.com/barthap/discovering-turbomodules)
-2. ❌ Closed PR [#30](https://github.com/hyperledger/indy-sdk-react-native/pull/30) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-3. 💪 Opened PR [#31](https://github.com/hyperledger/indy-sdk-react-native/pull/31) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-4. 💪 Opened PR [#30](https://github.com/hyperledger/indy-sdk-react-native/pull/30) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-5. 🗣 Commented on [#59](https://github.com/hyperledger/indy-vdr/issues/59) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. 🗣 Commented on [#170](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/170) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+2. ❗️ Closed issue [#2](https://github.com/barthap/discovering-turbomodules/issues/2) in [barthap/discovering-turbomodules](https://github.com/barthap/discovering-turbomodules)
+3. ❌ Closed PR [#30](https://github.com/hyperledger/indy-sdk-react-native/pull/30) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+4. 💪 Opened PR [#31](https://github.com/hyperledger/indy-sdk-react-native/pull/31) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+5. 💪 Opened PR [#30](https://github.com/hyperledger/indy-sdk-react-native/pull/30) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
