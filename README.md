@@ -6,10 +6,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#75](https://github.com/hyperledger/indy-vdr/issues/75) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. ❗️ Opened issue [#77](https://github.com/hyperledger/indy-vdr/issues/77) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. ❗️ Opened issue [#76](https://github.com/hyperledger/indy-vdr/issues/76) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 💪 Opened PR [#75](https://github.com/hyperledger/indy-vdr/pull/75) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. ❗️ Closed issue [#607](https://github.com/hyperledger/aries-framework-javascript/issues/607) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#75](https://github.com/hyperledger/indy-vdr/issues/75) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. ❗️ Opened issue [#77](https://github.com/hyperledger/indy-vdr/issues/77) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. ❗️ Opened issue [#76](https://github.com/hyperledger/indy-vdr/issues/76) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 💪 Opened PR [#75](https://github.com/hyperledger/indy-vdr/pull/75) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
